@@ -1,6 +1,3 @@
-# This is my first attempt at creating a python project.
-# I will create input variables, a string and call those variables.
-
 name = input("Name: ")
 adjective = input("Adjective: ")
 noun = input("Plural Noun: ")
