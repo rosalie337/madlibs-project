@@ -8,7 +8,7 @@ verb = input("Verb: ")
 verb2 = input("Verb: ")
 adjective2 = input("Adjective: ")
 
-madlibs1 = (f"Welcome to Portland, Oregon {name}! I hope you are ready for the {adjective} "
+madlibs = (f"Welcome to Portland, Oregon {name}! I hope you are ready for the {adjective} "
             f"culture you are going to take in. There are mountains and {noun}. "
             f"You can hike, {verb}, and bike all over the city. Make sure to not "
             f"miss out on the opportunities to {verb2} around our {adjective2} city.")
