@@ -11,6 +11,7 @@ Great for learning Python basics like string manipulation, user input, and file 
 - Multiple Mad Libs story templates
 - Interactive user input for words (nouns, verbs, adjectives, etc.)
 - Hilarious and unexpected story outcomes
+
 ### Installation
 
 1. **Clone the repository:**
