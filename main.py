@@ -17,6 +17,6 @@ madlibs = ("Welcome to Portland, Oregon " + name + "! I hope you are ready for t
 madlibs2 = (f"Welcome to Portland, Oregon {name}! I hope you are ready for the {adjective} "
             f"culture you are going to take in. There are mountains and {noun}. "
             f"You can hike, {verb}, and bike all over the city. Make sure to not "
-            f"miss out on the opportunities to {verb2} around our {adjective} city.")
+            f"miss out on the opportunities to {verb2} around our {adjective2} city.")
 
 print(madlibs)
